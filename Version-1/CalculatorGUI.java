@@ -306,6 +306,7 @@ public class CalculatorGUI extends JFrame implements ActionListener{
             answer.setText(x);
         } else if(e.getSource()==seven_button){
             x+="7";
+            answer.setText(x);
         } else if(e.getSource()==eight_button){
             x+="8";
             answer.setText(x);
