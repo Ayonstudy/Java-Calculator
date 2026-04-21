@@ -1,9 +1,5 @@
----
-title: "Java Calculator Version-1"
-date: 2026-04-21
-draft: false
----
-
+# Java-Calculator Version 1
+Made by Ayonstudy.
 ## About Program
 This was a project I did many years ago when learning Java. This was never made to be used for actual professional work. Of course you can still use it if you'd like. You have to compile it yourself. To start it, open your terminal and type java Calculator. It is slow as it involves writing to disk every time. Did that raise an eyebrow or startled you in confusion, well read the story of how I wrote this bellow.
 
