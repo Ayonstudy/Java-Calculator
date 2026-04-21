@@ -14,7 +14,7 @@ I felt really happy and smart at the time. Of course now I know POSIX and how to
 
 ## How to properly run it
 ### Prerequisites
-*Java compiler + Java runtime
+* Java compiler + Java runtime
 
 ### How to Run:
 Step 1: Compile CMDcommand.java, Calculator.java, and CalculatorGUI.java using javac
