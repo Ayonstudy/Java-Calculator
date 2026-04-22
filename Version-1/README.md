@@ -17,9 +17,7 @@ I felt really happy and smart at the time. Of course now I know POSIX and how to
 ### How to Run:
 Step 1: Compile CMDcommand.java, Calculator.java, and CalculatorGUI.java using javac
 ```
-javac CMDcommand.java
-javac Calculator.java
-javac CalculatorGUI.java
+javac CMDcommand.java Calculator.java CalculatorGUI.java
 ```
 Step 2: Run Calculator with the java runtime
 ```
